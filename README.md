@@ -70,7 +70,7 @@ yarn install
 3. Configure the Solana wallet and RPC endpoint:
 
 ```
-export SOLANA_WALLET=<your wallet address>
+export SOLANA_WALLET=FqmkngnECGtNfWLB6a57ctDCdak5C9TFzD6r2J4AeegZ
 export SOLANA_RPC_ENDPOINT=<your RPC endpoint>
 ```
 
