@@ -39,7 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Overview
 
-CashApp with SolanaPay and NextJS is a web-based payment app that allows users to send and receive money, invest in stocks, and buy and sell cryptocurrency. The app is built using SolanaPay, a payment gateway built on the Solana blockchain, and NextJS, a popular React-based framework for building web applications.
+CashApp with SolanaPay and NextJS is a web-based payment app that allows users to send and receive money and buy and sell cryptocurrency. The app is built using SolanaPay, a payment gateway built on the Solana blockchain, and NextJS, a popular React-based framework for building web applications.
 
 ## Requirements
 
@@ -124,10 +124,3 @@ git push origin my-new-branch
 
 5. Create a new pull request to the main repository.
 
-## License
-
-CashApp with SolanaPay and NextJS is licensed under the MIT License. See `LICENSE` for more information.
-
-## Acknowledgments
-
-CashApp with SolanaPay and NextJS was inspired by the original CashApp and built with the help of SolanaPay and NextJS. Thanks to the developers and communities behind these projects for their contributions.
